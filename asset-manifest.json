@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MPERP/static/css/main.9111dd1c.css",
+    "main.js": "/MPERP/static/js/main.602a4891.js",
+    "static/js/787.d718609c.chunk.js": "/MPERP/static/js/787.d718609c.chunk.js",
+    "static/media/Logo.png": "/MPERP/static/media/Logo.35bc0345c3dc4fbae868.png",
+    "index.html": "/MPERP/index.html",
+    "main.9111dd1c.css.map": "/MPERP/static/css/main.9111dd1c.css.map",
+    "main.602a4891.js.map": "/MPERP/static/js/main.602a4891.js.map",
+    "787.d718609c.chunk.js.map": "/MPERP/static/js/787.d718609c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9111dd1c.css",
+    "static/js/main.602a4891.js"
+  ]
+}
