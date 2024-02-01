@@ -1,0 +1,123 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  .table-container {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  thead {
+    position: sticky;
+    top: 0;
+    background-color: #fff; /* Adjust the background color as needed */
+    
+  }
+  
+
+  
+  
+
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #f1f1f1;
+    margin: 100px auto 0;
+    word-break: break-all;
+    border: 1px solid rgba(0, 0, 0, 0.274);
+  }
+  
+  .bloc-tabs {
+    display: flex;
+  }
+  .tabs {
+  
+    padding: 15px;
+    text-align: center;
+    width: 50%;
+    background: rgba(24, 148, 250, 0.411);
+    cursor: pointer;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.274);
+    box-sizing: content-box;
+    position: relative;
+    outline: none;
+  }
+  .tabs:not(:last-child){
+    border-right: 1px solid rgba(0, 0, 0, 0.274);
+  }
+  
+  .active-tabs  {
+    background-color:rgb(209, 221, 239);
+    border-bottom: 1px solid transparent;
+  }
+  
+  .active-tabs::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% + 2px);
+    height: 5px;
+    background: rgb(88, 147, 241);
+  }
+  
+  
+  
+  button {
+    border: none;
+    
+  }
+  .content-tabs {
+    flex-grow : 1;
+  }
+  .content {
+    background-color:white;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .content h2 {
+    padding: 0px 0 5px 0px;
+  }
+  .content hr {
+    width: 100px;
+    height: 2px;
+    background: #222;
+    margin-bottom: 5px;
+  }
+  .content p {
+    width: 100%;
+    height: 100%;
+  }
+  .active-content {
+    display: block;
+  }
+  .allocation-table-container {
+    height: 300px; /* Set the desired height for the scrollbar container */
+    overflow: auto;
+  }
+  
+  .allocation-table-scrollbar {
+    padding-right: 16px; /* Add a bit of padding to avoid overlapping with the scrollbar */
+  }
+
+  /* Add this CSS to your styles */
+  .table-header {
+    position: sticky;
+    top: 0;
+    background-color: #f2f2f2;
+  }
+.scrollable-table-container {
+  max-height: 340px; /* Set the desired max height for the scrollable container */
+  overflow-y: auto;
+}
+
+  

@@ -1,0 +1,87 @@
+.custom-lbox {
+    background: whitesmoke;
+    font-family: verdana;
+    font-weight: bold;
+  }
+  
+  .custlabel{
+    text-align: right;
+    padding-right: 6px;
+    padding-top:-20px;
+  }
+  
+  #gg 
+  {
+    width: 1100px;
+  }
+  #sno{
+    width: 100px;
+  }
+  #notes
+  {
+    width: 300px;
+  }
+
+  #commentstext{
+    width: 100px;
+    height: 300px;
+    border: none;
+  }
+
+  .tb1 {
+    margin: none;
+    border: none;
+    height: 300px;
+    width: 100%; 
+    text-align: center; 
+  }
+  
+  #finalsubmit {
+    margin:center;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: white;
+  }
+  
+  .custom-card-color {
+    background-color: white;
+  }
+  
+  .custom-tb,
+  .custom-tb2 {
+    border-color: black;
+  }
+  
+  .table th{
+    background-color: rgba(224, 232, 245, 0.877);
+  }
+  .table th,
+  table tr,
+  table td {
+    border-color: black;
+  }
+
+  .custom-cardbdy{
+    background-color: #a8d2fd;
+  }
+  
+  .custlabel4{
+    margin-top: 20px;
+    text-align: right;
+  }
+
+  .comp4col{
+    text-align: left;
+  }
+
+  .insrow{
+    padding: -10px;
+  }
+
+  .custom-cardbdy1{
+    margin-top: -20px;
+    padding-right: -25px;
+    padding-left: 10px;
+    margin-bottom: -50px;
+  }

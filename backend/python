@@ -1,0 +1,4 @@
+Operations to perform:
+  Apply all migrations: Cust_AssetList, admin, auth, contenttypes, login, mach, planner, sessions
+Running migrations:
+  No migrations to apply.

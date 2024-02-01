@@ -1,0 +1,171 @@
+.custom-dt{
+  padding-right: 40px;
+  padding-top: 10px;
+}
+.custom-head{
+  margin-top: 10px;
+}
+.custom-font {
+    background-color:dodgerblue;
+      
+  }
+  .table-container {
+    border-collapse: collapse;
+    background-color:  rgba(30, 143, 255, 0.555);
+  }
+  
+#oe{
+  margin-left:0%;
+}
+
+
+  .App-link {
+    color: #61dafb;
+  }
+  
+  .current-time-container {
+    text-align: right;
+   
+  }
+  
+  .current-time-heading {
+    font-size: 24px;
+    color: #333;
+    margin-top: -50px
+  }
+  
+  .custom-textfield0 {
+    width: 100px;
+    padding: 3px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  
+  .current-time-text {
+    font-size: 18px;
+    color: #830640;
+  }
+  .current-date {
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  
+  
+  .table-container th,
+  .table-container td {
+    border: 1px solid black;
+    padding: 8px;
+    background-color:rgba(228, 229, 231, 0.555)
+  }
+
+  .but1{
+    padding-top: 40px;
+    padding-bottom:0px;
+    background-color: #a8d2fd;
+  }
+  
+  .custom-browse{
+    text-align: center;
+  }
+  
+  .custom-done{
+    margin-left: 10px;
+    background-color: dodgerblue;
+  }
+  
+  .custom-edit{
+    margin-left: 10px;
+    background-color: dodgerblue;
+  }
+  
+  .custom-savechange{
+    background-color: dodgerblue;
+  }
+  
+  .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin-left: 100px
+  }
+  
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  .bi-house {
+    display: inline-block;
+    font-size: 1.5rem;
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+
+  .custom-cardbdy{
+    padding-left: 0px;
+    padding-right:10px;
+
+  }
+
+  .custlabel{
+    padding-right: 5px;
+    font-size: 15px;
+  }
+
+  .Format
+  {
+    border: 1px solid black;
+    border: 1px solid black;
+    padding: 8px;
+    background-color:  #cfd9de;
+    margin: center;
+  }
+
+ #r1{
+  padding-top:10px;
+  padding-right: 40px;
+  background-color:#a8d2fd ;
+ }
+
+ #r2{
+  background-color:#a8d2fd ;
+ }
+
+  .custom-textfield0{ 
+    margin-bottom: 5px;
+    border-color: black;
+  }
+
+  .custom-card{
+    background-color: #a8d2fd;
+    border-radius: 0%;
+  }
+
+  .customicon{
+    margin-left: 0%;
+    padding-left: 0%;
+    justify-content: left;
+  }
+
+  #col3{
+    padding-left: 40px;
+    padding-right:0px;
+  }
+  .table-container-wrapper {
+    max-height: calc(100vh - 175px); /* Adjust the value as needed */
+    overflow-y: auto; /* Enable vertical scrolling */
+    border-collapse: collapse;
+  }
+  
+  .table-container {
+    
+    width: 100%; /* Set the table width to fill the container */
+    background-color: rgba(228, 229, 231, 0.555);
+  }
+  
+  

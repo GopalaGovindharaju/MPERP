@@ -1,0 +1,64 @@
+.customlbox{
+    font-family: verdana;
+    font-weight: bold;  
+}
+
+#bgcolor{
+    background-color: #a8d2fd;
+}
+
+.customtable {
+    border-collapse: collapse;
+    height: 200px;
+}
+
+.custombt
+{
+    width: 200px;
+}
+
+table td,
+table th {
+    padding: 8px;
+} 
+
+table th {
+    background-color:  #d6e3f1;   
+}
+
+table tr{
+    background-color: white;
+}
+.select {
+    width: 100%;
+    padding: 4px;
+}
+
+.submit-button {
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.custom-font{
+    font-family: Verdana;
+}
+
+.insrow{
+    padding-top: 40px;
+    padding-left: 20px;   
+}
+
+.insrow2{
+    padding: -10px; 
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.insrow3{
+    padding: -2px;  
+}
